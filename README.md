@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif"  />
+</div>
+
+###
+
 <h1 align="center">Hey! Me chamo Samuel Ferreira 👋</h1>
 
 ###
