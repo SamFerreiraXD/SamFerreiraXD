@@ -48,8 +48,8 @@
 ###
 
 <p align="center">
-  Me chamo Samuel Ferreira da Silva e sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Brasília FBr.<br><br>
-  Atualmente estudo desenvolvimento backend, frontend e tecnologias modernas voltadas para software e aplicações web.<br><br>
+<p align="left">Me chamo Saamuel Ferreira da Silva e sou formado em Análise e Desenvolvimento de Sistemas pela <br>Faculdade Braasília FBr. Seja bem-vindo ao meu Github! xD</p>
+
 
   Seja bem-vindo ao meu GitHub! 🚀
 </p>
