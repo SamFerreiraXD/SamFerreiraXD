@@ -50,8 +50,8 @@
 ###
 
 <p align="center">
-<p align="left">Me chamo Samuel Ferreira da Silva e sou estudante de Análise e Desenvolvimento de Sistemas pela <br>Faculdade Braasília FBr.</p>
-<p align="left">Estou em busca da minha primeira oportunidade de emprego nas áreas de: Backend e/ou Frontend.</p>
+<p align="left">Me chamo Samuel Ferreira da Silva e sou estudante de Análise e Desenvolvimento de Sistemas pela <br>Faculdade Braasília FBr.
+Estou em busca da minha primeira oportunidade de emprego nas áreas de: Backend e/ou Frontend.</p>
 
 
   Seja bem-vindo ao meu GitHub! 🚀
