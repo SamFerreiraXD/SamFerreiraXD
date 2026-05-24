@@ -48,7 +48,7 @@
 ###
 
 <p align="center">
-<p align="left">Me chamo Saamuel Ferreira da Silva e sou formado em Análise e Desenvolvimento de Sistemas pela <br>Faculdade Braasília FBr.</p>
+<p align="left">Me chamo Samuel Ferreira da Silva e sou formado em Análise e Desenvolvimento de Sistemas pela <br>Faculdade Braasília FBr.</p>
 
 
   Seja bem-vindo ao meu GitHub! 🚀
