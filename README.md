@@ -55,8 +55,7 @@
 <p align="center">
 <p align="left">Me chamo Samuel Ferreira da Silva e sou estudante de Análise e Desenvolvimento de Sistemas pela <br>Faculdade Braasília FBr.
 Estou em busca da minha primeira oportunidade de emprego nas áreas de: Backend e/ou Frontend.</p>
-
-<p align="left">Aqui no meu GitHub você encontrará projetos, estudos e experiências que fazem parte da minha jornada na programação. 🚀</p>p
+<p align="left">Aqui no meu GitHub você encontrará projetos, estudos e experiências que fazem parte da minha jornada na programação. 🚀</p>
 
   Seja bem-vindo ao meu GitHub!
 </p>
