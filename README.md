@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hey! Me chamo Samuel Ferreira 👋</h1>
+<h1 align="center">Hello, I'm Samuel Ferreira da Silva 👋</h1>
 
 ###
 
@@ -51,8 +51,6 @@
 </div>
 
 ###
-
-# Hello, I'm Samuel Ferreira da Silva 👋
 
 🎓 Systems Analysis and Development student at Faculdade Brasília (FBr)  
 💻 Interested in Backend and Frontend Development  
