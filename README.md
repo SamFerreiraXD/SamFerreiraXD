@@ -52,8 +52,10 @@
 
 ###
 
-Me chamo Samuel Ferreira da Silva e sou estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Brasília FBr.
-Estou em busca da minha primeira oportunidade de emprego nas áreas de Backend e/ou Frontend.
-Aqui no meu GitHub você encontrará projetos, estudos e experiências que fazem parte da minha jornada na programação.
+# Hello, I'm Samuel Ferreira da Silva 👋
 
-Seja bem-vindo ao meu GitHub! 🚀
+🎓 Systems Analysis and Development student at Faculdade Brasília (FBr)  
+💻 Interested in Backend and Frontend Development  
+🚀 Looking for my first opportunity in the tech industry
+
+Welcome to my GitHub!
