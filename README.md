@@ -54,7 +54,7 @@
 
 🎓 Systems Analysis and Development student at Faculdade Brasília (FBr)  
 💻 Interested in Backend and Frontend Development  
-🚀 Looking for my first opportunity in the tech industry
+🚀 Looking for my first opportunity in the tech industry  
 🌎 Languages: Portuguese (Native) | English (Intermediate)
 
 Welcome to my GitHub!
